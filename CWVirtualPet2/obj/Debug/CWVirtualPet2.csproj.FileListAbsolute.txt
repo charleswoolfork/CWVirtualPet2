@@ -1,0 +1,7 @@
+C:\Users\WeCanCodeIT\source\repos\CWVirtualPet2\CWVirtualPet2\bin\Debug\CWVirtualPet2.exe.config
+C:\Users\WeCanCodeIT\source\repos\CWVirtualPet2\CWVirtualPet2\bin\Debug\CWVirtualPet2.exe
+C:\Users\WeCanCodeIT\source\repos\CWVirtualPet2\CWVirtualPet2\bin\Debug\CWVirtualPet2.pdb
+C:\Users\WeCanCodeIT\source\repos\CWVirtualPet2\CWVirtualPet2\obj\Debug\CWVirtualPet2.csprojAssemblyReference.cache
+C:\Users\WeCanCodeIT\source\repos\CWVirtualPet2\CWVirtualPet2\obj\Debug\CWVirtualPet2.csproj.CoreCompileInputs.cache
+C:\Users\WeCanCodeIT\source\repos\CWVirtualPet2\CWVirtualPet2\obj\Debug\CWVirtualPet2.exe
+C:\Users\WeCanCodeIT\source\repos\CWVirtualPet2\CWVirtualPet2\obj\Debug\CWVirtualPet2.pdb
